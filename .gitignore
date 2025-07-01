@@ -506,3 +506,6 @@ test-report.xml
 # /data/
 # /uploads/
 # /media/
+
+# Documentation files (keep in README instead)
+ALIASES.md
