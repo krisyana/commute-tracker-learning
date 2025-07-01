@@ -509,3 +509,9 @@ test-report.xml
 
 # Documentation files (keep in README instead)
 ALIASES.md
+
+# Old docker compose file (renamed to docker-compose.yml)
+docker.compose.yml
+
+# Misspelled requirements file
+apps/backend/requirment.txt
